@@ -3,10 +3,10 @@ title: PAGE_TITLE_SENTENCE_CASE
 description: PAGE_DESCRIPTION_ONE_OR_TWO_SENTENCES
 index: project-firefly
 keywords:
-- Adobe I/O
-- Extensibility
-- API Documentation
-- Developer Tooling
+  - Adobe I/O
+  - Extensibility
+  - API Documentation
+  - Developer Tooling
 ---
 
 
