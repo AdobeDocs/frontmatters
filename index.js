@@ -27,8 +27,9 @@ const start = async () => {
         console.log(`${chalk.red('Correct the errors and try again.')}`);
         console.error(`${chalk.red(e)}`);
     } finally {
-        console.log(`${chalk.white('All done!')}`);
+        console.log(`${chalk.yellow(`Template applied:\n)}`)}`);
+        console.log(`${chalk.yellow(`${frontmatter}\n\n)}`)}`);
     }
 };
 
-start().then(r => console.log('✔ The frontmatter template was added to all markdown files.'));
+start().then((r) => console.log('✔ The front matter template above was added to all your markdown files.'));
