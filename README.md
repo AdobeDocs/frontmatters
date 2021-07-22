@@ -1,6 +1,8 @@
-# FrontMaker
+# FrontMatters
 
-FrontMaker adds a front matter template block to your documentation markdown files. The front matter templates are defined by Adobe products. Each template can be customized and updated to evolve and represent the best taxonomy for a given product.
+FrontMatters is a CLI that lets you pick a front matter template to add to all your documentation markdown files. 
+The front matter templates are named according to the Adobe product developer documentation they are used for. 
+Each template can be customized and updated to represent the most accurate taxonomy (content categories) for their intended product.
 
 ## Usage
 
