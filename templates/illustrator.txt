@@ -4,11 +4,9 @@ description: PAGE_DESCRIPTION_ONE_OR_TWO_SENTENCES
 keywords:
   - Creative Cloud
   - API Documentation
-  - UXP
-  - Plugins
-  - JavaScript
   - ExtendScript
-  - SDK
+  - SDKDocumentation
   - C++
   - Scripting
+  - JavaScript
 ---
