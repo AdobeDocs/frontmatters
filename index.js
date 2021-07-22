@@ -19,16 +19,12 @@ const start = async () => {
     try {
         const answers = await questions.askQuestions();
         const { product, markdownFolder } = answers;
-        console.log(markdownFolder);
 
         let frontmatter = files.readFrontMatter(product);
         files.addFrontMatter(frontmatter, markdownFolder);
     } catch (e) {
         console.log(`${chalk.red('Correct the errors and try again.')}`);
         console.error(`${chalk.red(e)}`);
-    } finally {
-        console.log(`${chalk.yellow(`Template applied:\n)}`)}`);
-        console.log(`${chalk.yellow(`${frontmatter}\n\n)}`)}`);
     }
 };
 
