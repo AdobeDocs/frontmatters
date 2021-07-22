@@ -1,0 +1,13 @@
+# gatsby files
+.cache
+public
+node_modules
+
+yarn-error.log
+.editorconfig
+.env
+
+.idea
+.DS_Store
+.vscode
+.history/
