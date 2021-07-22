@@ -3,9 +3,9 @@ title: PAGE_TITLE_SENTENCE_CASE
 description: PAGE_DESCRIPTION_ONE_OR_TWO_SENTENCES
 index: creative-cloud
 keywords:
-- Creative Cloud
-- API Documentation
-- JavaScript
-- CC Libraries API
-- Creative Cloud LibrariesAPI
+  - Creative Cloud
+  - API Documentation
+  - JavaScript
+  - CC Libraries API
+  - Creative Cloud LibrariesAPI
 ---
