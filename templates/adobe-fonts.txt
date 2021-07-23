@@ -1,10 +1,9 @@
 ---
 title: PAGE_TITLE_SENTENCE_CASE
 description: PAGE_DESCRIPTION_ONE_OR_TWO_SENTENCES
-index: stock
-repo: stock
+index: adobe-fonts
+repo: fonts
 keywords:
   - Creative Cloud
   - API Documentation
-  - JavaScript
 ---
