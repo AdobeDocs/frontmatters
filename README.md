@@ -9,7 +9,7 @@ Each template can be customized and updated to represent the most accurate taxon
 1. Navigate to your `<doc-project-root>` directory and run the following command:
 
     ```bash
-    npx https://github.com/AdobeDocs/frontmatters.git
+    npx https://github.com/AdobeDocs/frontmatters.git --ignore-existing
     ```
 
 2. Answer the brief on-screen prompts. 
