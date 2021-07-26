@@ -1,7 +1,7 @@
 ---
 title: PAGE_TITLE_SENTENCE_CASE
 description: PAGE_DESCRIPTION_ONE_OR_TWO_SENTENCES
-index: creative-cloud
+product: creative-cloud
 repo: cc-developer-platform-pages
 keywords:
   - Creative Cloud

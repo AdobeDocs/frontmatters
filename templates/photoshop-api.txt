@@ -1,7 +1,7 @@
 ---
 title: PAGE_TITLE_SENTENCE_CASE
 description: PAGE_DESCRIPTION_ONE_OR_TWO_SENTENCES
-index: photoshop
+product: photoshop
 repo: photoshop-api
 keywords:
   - Creative Cloud
