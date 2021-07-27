@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: indesign
-repo: indesign
 keywords:
   - Creative Cloud
   - API Documentation

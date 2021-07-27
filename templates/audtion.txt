@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: audition
-repo: audition
 keywords:
   - Creative Cloud
   - API Documentation

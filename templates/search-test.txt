@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: search-test
-repo: search-test
 keywords:
   - Creative Cloud
   - API Documentation

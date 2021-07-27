@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: photoshop
-repo: photoshop-api
 keywords:
   - Creative Cloud
   - API Documentation

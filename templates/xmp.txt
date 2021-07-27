@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: xmp
-repo: xmp
 keywords:
   - xmp
 ---

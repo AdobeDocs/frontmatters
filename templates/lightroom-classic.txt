@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: lightroom-classic
-repo: lightroom-classic
 keywords:
   - Creative Cloud
   - API Documentation

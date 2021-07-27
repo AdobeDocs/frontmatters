@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: project-firefly
-repo: project-firefly
 keywords:
   - Adobe I/O
   - Extensibility

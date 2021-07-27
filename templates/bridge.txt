@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: bridge
-repo: bridge
 keywords:
   - Creative Cloud
   - API Documentation

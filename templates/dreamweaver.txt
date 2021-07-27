@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: dreamweaver
-repo: dreamweaver
 keywords:
   - Creative Cloud
   - API Documentation

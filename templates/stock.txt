@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: adobe-stock
-repo: stock
 keywords:
   - Creative Cloud
   - API Documentation

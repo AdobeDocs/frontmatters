@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: adobe-fonts
-repo: fonts
 keywords:
   - Creative Cloud
   - API Documentation

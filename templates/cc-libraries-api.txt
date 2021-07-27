@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: creative-cloud
-repo: cc-libraries-api
 keywords:
   - Creative Cloud
   - API Documentation

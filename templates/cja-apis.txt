@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: customer-journey-analytics
-repo: cja-apis
 keywords:
   - Experience Platform
   - API Documentation

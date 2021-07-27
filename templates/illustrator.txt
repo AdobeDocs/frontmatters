@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: illustrator
-repo: illustrator
 keywords:
   - Creative Cloud
   - API Documentation

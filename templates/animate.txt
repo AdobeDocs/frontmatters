@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: animate
-repo: animate
 keywords:
   - Creative Cloud
   - API Documentation

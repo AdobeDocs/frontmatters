@@ -1,8 +1,4 @@
 ---
-title:
-description:
-product: premiere-pro
-repo: premiere-pro
 keywords:
   - Creative Cloud
   - API Documentation
