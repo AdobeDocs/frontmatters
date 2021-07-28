@@ -17,6 +17,7 @@ const chalk = require('chalk');
 const { textSync } = require('figlet');
 const questions = require('./lib/questions');
 const files = require('./lib/frontmatter');
+const argv = require('minimist')(process.argv.slice(2));
 
 // Clear terminal and display ASCII art
 clear();
@@ -24,10 +25,16 @@ console.log(chalk.greenBright(textSync('FrontMatters', { horizontalLayout: 'fitt
 
 const start = async () => {
     try {
-        const answers = await questions.askQuestions();
-        const { product, markdownFolder } = answers;
-
-        let frontmatter = files.readFrontMatter(product);
+        let product, markdownFolder;
+        if (argv.r && argv.s) {
+            product = argv.r;
+            markdownFolder = argv.s;
+        } else {
+            const answers = await questions.askQuestions();
+            product = answers.product;
+            markdownFolder = answers.markdownFolder;
+        }
+        const frontmatter = files.readFrontMatter(product);
         files.addFrontMatter(frontmatter, markdownFolder);
     } catch (e) {
         console.log(`${chalk.red('Correct the errors and try again.')}`);
