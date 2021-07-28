@@ -18,7 +18,7 @@ Each template can be customized and updated to represent the most accurate taxon
    
 More details to explain valid answers to the prompts soon!
 
-### Command way
+### "Parameters" way
 
 ```bash
     npx https://github.com/AdobeDocs/frontmatters.git --ignore-existing -r [repository] -s [source]
