@@ -4,5 +4,5 @@ keywords:
   - API Documentation
   - JavaScript
   - CC Libraries API
-  - Creative Cloud LibrariesAPI
+  - Creative Cloud Libraries API
 ---
