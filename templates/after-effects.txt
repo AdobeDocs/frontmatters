@@ -3,7 +3,7 @@ keywords:
   - Creative Cloud
   - API Documentation
   - ExtendScript
-  - SDKDocumentation
+  - SDK Documentation
   - C++
   - Scripting
   - JavaScript
