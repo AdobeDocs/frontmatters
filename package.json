@@ -14,7 +14,7 @@
     "clear": "^0.1.0",
     "figlet": "^1.5.2",
     "inquirer": "^8.1.5",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "shelljs": "^0.8.4"
   }
 }
